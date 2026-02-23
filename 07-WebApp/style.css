@@ -5,3 +5,79 @@ body {
     text-align: center;
     padding-top: 50px;
 }
+h1 {
+    color: #2c3e50;
+}
+h2 {
+    color: #34495e;
+    font-weight: normal;
+}
+
+p {
+    width: 60%;
+    margin: 0 auto;
+    line-height: 1.5;
+   
+}
+
+.button {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px; 
+}
+.button:hover {
+    background-color: #2980b9;
+    color: white;
+}
+
+ul {
+    list-style-type: square; /* circle, disc, square, none */
+
+}
+
+ul {
+    padding-left: 0;
+    text-align: center
+}
+
+.about {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.about h2 {
+    color: #2c3e50;
+}   
+
+.about p {
+    font-size: 16px;
+}
+
+.profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #3498db;
+}
+
+.button { 
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px; 
+}
+
+.button:hover {
+    background-color: #2980b9;
+    color: white;
+}
