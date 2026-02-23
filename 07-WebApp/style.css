@@ -81,3 +81,22 @@ ul {
     background-color: #2980b9;
     color: white;
 }
+.skills {background-color: #f2f2f2;
+    padding: 20px;
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 8px;
+    text-align: center;
+}
+.skills h2 {
+    color: #2c3e50;
+}
+.skills ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.skills li {
+    margin: 8px 0;
+    font-weight: bold;
+}
